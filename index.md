@@ -157,7 +157,7 @@ address.
   Get directions with
   <a href="//www.openstreetmap.org/?mlat={{page.latitude}}&mlon={{page.longitude}}&zoom=16">OpenStreetMap</a>
   or
-  <a href="//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}">Google Maps</a>.
+  <a href="//maps.google.com/maps?q={{55° 56' 34.08" N}},{{-3° 11' 20.40" W}}">Google Maps</a>.
 </p>
 {% elsif online == "true_public" %}
 <p id="where">
@@ -168,7 +168,7 @@ address.
 </p>
 {% elsif online == "true_private" %}
 <p id="where">
-  <strong>Where:</strong> This training will take place online.
+  <strong>Where:</strong> This training will take place in person at the University of Edinburgh at the Digital Scholarship Centre, Main Library, 6th floor - 30 George Square, Edinburgh EH8 9LJ.
   The instructors will provide you with the information you will need to connect to this meeting.
 </p>
 {% endif %}
