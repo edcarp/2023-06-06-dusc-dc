@@ -71,9 +71,6 @@ Carpentries courses would prepare you:
 - [R for Social Scientists](https://datacarpentry.org/r-socialsci/)
   - Episodes 1 to 5
 
-**Ed-DaSH**
-
-Ed-DaSH is a **Da**ta **S**cience training programme for **H**ealth and Biosciences. The [team](https://edcarp.github.io/Ed-DaSH/ed_dash_team.html) has developed workshops using [The Carpentries](https://carpentries.org/) platform on the following topics. See [workshops](https://edcarp.github.io/Ed-DaSH/workshops.html) for dates and registration details. All workshops will be delivered remotely.
 
 <h2 id="general">General Information</h2>
 
