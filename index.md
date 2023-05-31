@@ -450,7 +450,7 @@ during the workshop.
 {% elsif site.carpentry == "lc" %}
 {% include lc/setup.html %}
 {% elsif site.carpentry == "pilot" %}
-Please check the "Setup" page of
+Please check the "[Setup](https://carpentries-incubator.github.io/statistical-thinking-public-health/setup.html)" page of
 [the lesson site]({{ site.lesson_site }}) for instructions to follow
-to obtain the software and data you will need to follow the lesson.
+to obtain the software and data you will need to follow the lesson. Also, look at the top of each lesson for prerequisites to follow the lessons.
 {% endif %}
